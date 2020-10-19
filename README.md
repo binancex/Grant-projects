@@ -33,9 +33,7 @@ As part of our commitment to promoting the Binance Smart Chain ecosystem...
 ## :pencil: Process
 
 
-## :mailbox_with_mail: RFP List
-
-## :rocket: Alternative Funding Sources
+## :rocket: RFP List
 
 
 ## :bulb: Help
