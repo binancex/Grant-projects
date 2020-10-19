@@ -1,4 +1,4 @@
-# General Grants Program
+# Binance X development grants program
 
 <p align="center">
   <img src="./src/logo.png" style="width:1300px";>
