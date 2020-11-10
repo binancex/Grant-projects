@@ -1,11 +1,8 @@
 ## Project Satoshi: Beginner tutorial
 **Project Satoshi is a list of milestones an aspiring developer can self-start in order to guide themselves along a solid path to proficiency in dapp development. The list is sequential, as later milestones may depend on previous ones. It is recommended that individuals start from the beginning no matter what their level. This tutorial should be an exemplary completion of the milestone, but structured as a tutorial**
 # Concepts
-This tutorial should focus on the tools of the trade for getting started with BSC smart contract development. In this tutorial, the reader will lean how to do the following things from your written and video tutorials:
-- Install and configure Metamask for the Binance Smart Chain
-- Use the test BNB faucet
-- Deploy test contract using Remix
-- Interact with the contract in Remix and inspect it in the Binance Smart Chain explorer
+This tutorial should have a special focus on functions, security, and data types in BSC smart contract development.  In this tutorial, the reader will lean how to do the following things from your written and video tutorials:
+- Write and deploy a BEP-20 token contract
 
 # Deliverables
 - One <7min video (.mp4 or .avi), with clear English audio that can be uploaded to our YouTube channel
