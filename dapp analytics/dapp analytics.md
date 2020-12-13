@@ -13,6 +13,7 @@
 # Tech stack
 - React or Vue preferred
 - Deployed on Google Cloud Suite (firebase, hosting, functions, auth)
+- Deployed on Binance Smart Chain
 
 # Design
 - Minimal design, so that it can be extended and altered in the future
