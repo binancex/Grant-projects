@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "start": "parcel serve index.html --port 2222",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "jsbi": "^3.1.4",
+    "react": "link:../../node_modules/react",
+    "react-dom": "link:../../node_modules/react-dom",
+    "token-amount": "^0.1.0",
+    "use-bsc-wallet": "link:../.."
+  },
+  "alias": {
+    "react": "../../node_modules/react",
+    "react-dom": "../../node_modules/react-dom"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/preset-react": "^7.10.4",
+    "parcel": "^1.12.4"
+  }
+}
