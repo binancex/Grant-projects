@@ -1,0 +1,18 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "../../dist/out-tsc",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "rootDir": "./",
+    "types": ["node", "tape"]
+  },
+  "exclude": [
+    "**/*.spec.js",
+    "test/"
+  ],
+  "include": ["**/*.ts"]
+}
+  
